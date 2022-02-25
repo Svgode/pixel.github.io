@@ -1,2 +1,1 @@
-# pixel.github.io
-Javascript Assigment
+# pix.github.io
